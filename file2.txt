@@ -1,1 +1,3 @@
 Changed to fix bug 1
+
+Change to fix bug 2
