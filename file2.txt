@@ -1,6 +1,4 @@
 Changed to fix bug 1
-test
-testt
-etst
-test
-testet
+
+Change to fix bug 2 - merged now
+
